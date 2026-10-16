@@ -1,5 +1,8 @@
 # glitchify
 Digital Art for a Digital Age
+
+This program will automatically generate fractal-based artwork, colorize and modify it, then output in a square format for use in Album Artwork.
+
 ### Instructions
 
 ### Summary of All Commands
